@@ -1,6 +1,6 @@
 ## NBA Team Payroll Efficiency Dashboard (Power BI)
 
-This project analyzes how efficiently NBA teams convert payroll spending into on-court performance for the 2025–26 season. The dashboard highlights which franchises deliver strong value per win and which teams overspend relative to results.
+This project analyzes how efficiently NBA teams convert payroll spending into on-court performance for the 2025–26 season as of March 3, 2026. The dashboard highlights which franchises deliver strong value per win and which teams overspend relative to results.
 
  ## Key Features
 - Single-page Power BI dashboard designed for clarity and storytelling
